@@ -17,6 +17,6 @@
   },
   "dependencies" : {},
   "peerDependencies": {
-    "jspdf": "~1.3.0"
+    "jspdf": "^1.3.0"
   }
 }
