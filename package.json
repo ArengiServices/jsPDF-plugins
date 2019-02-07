@@ -1,7 +1,7 @@
 {
   "name": "jspdf-plugins",
   "version": "1.0.272",
-  "homepage": "https://github.com/mwils/jsPDF-plugins",
+  "homepage": "https://github.com/ArengiServices/jsPDF-plugins",
   "description": "Additionnal plugins for jsPDF",
   "files": [
     "plugins/*",
